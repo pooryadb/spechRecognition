@@ -27,7 +27,7 @@
 		2. KNN algorithm
 		
 		use makeNewClassifier.m
-** trainedClassifier is in "func" folder already; Use 'makeNewClassifier.m' if you need train new classifier. **
+**trainedClassifier is in "func" folder already; Use 'makeNewClassifier.m' if you need train new classifier.**
 		
  ### E. Test
 		use CheckAudio.m
