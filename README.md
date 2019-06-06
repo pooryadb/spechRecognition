@@ -33,6 +33,8 @@
 		use CheckAudio.m
  
 ***
+The steps above are roughly taken from [this MATLAB page](https://www.mathworks.com/help/audio/examples/speaker-identification-using-pitch-and-mfcc.html).
+***
  ## 2. Open/Close door-lock with Arduino
 		upload "/arduino/door/door.ino" to the Arduino board
 		use CheckAudioA.m
