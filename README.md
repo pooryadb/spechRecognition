@@ -28,6 +28,7 @@
 		
 		use makeNewClassifier.m
 **trainedClassifier is in "func" folder already; Use 'makeNewClassifier.m' if you need train new classifier.**
+**notice: extract trainFiles.zip in order to use for training**
 		
  ### E. Test
 		use CheckAudio.m
@@ -39,5 +40,3 @@ The steps above are roughly taken from [this MATLAB page](https://www.mathworks.
 		upload "/arduino/door/door.ino" to the Arduino board
 		use CheckAudioA.m
 		
-***
-**notice: extract trainFiles.zip in order to use for training**
