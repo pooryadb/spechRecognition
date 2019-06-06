@@ -33,6 +33,7 @@
  
 ***
  ## 2. Open/Close door-lock with Arduino
+		upload "/arduino/door/door.ino" to the Arduino board
 		use CheckAudioA.m
 		
 ***
